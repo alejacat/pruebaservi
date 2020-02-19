@@ -1,0 +1,8 @@
+CREATE TABLE usuarios(
+id INT AUTO_INCREMENT PRIMARY KEY,
+nombre VARCHAR(30),
+apellido VARCHAR(30),
+direccion VARCHAR(80),
+ciudad VARCHAR(30),
+longitud DOUBLE,
+estadogeo VARCHAR(30))
