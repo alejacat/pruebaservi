@@ -1,0 +1,23 @@
+.contenedor{
+    margin-top: 60px;
+}
+
+.cuerpo-contenedor{
+    width: 15%;
+    background: rgb(111, 171, 228);
+    margin-right: 90px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    padding: 30px 20px 40px 30px;
+    float: right;
+    border: 1px solid;
+    border-collapse: separate;
+    
+}
+.cuerpo-contenedor img{
+    height: 100%;
+    vertical-align: top;
+    border: 1px solid;
+    padding: 50px 80px 60px 80px;
+}
